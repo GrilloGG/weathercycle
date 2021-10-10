@@ -28,7 +28,7 @@ The directions of the segment that is displayed on the table is also color coded
 
 -This gift shows how to use the website.
 
-![Website functionality](assets/images/weather-cycle-02.gif)
+![Website functionality](assets/weather-cycle-02.gif)
 
 ## Link to Deployed Application
 
